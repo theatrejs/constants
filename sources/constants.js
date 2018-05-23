@@ -10,10 +10,5 @@ const PI = 3.141593;
 // square root of 2, rounded to the millionth
 const SQRT_2 = 1.414214;
 
-export {
-
-    E,
-    G,
-    PI,
-    SQRT_2
-};
+// exports current module as constants
+export {E, G, PI, SQRT_2};
