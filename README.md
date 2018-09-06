@@ -1,1 +1,1 @@
-# Theatre.constants
+# constants
